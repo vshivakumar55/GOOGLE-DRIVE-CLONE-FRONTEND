@@ -1,6 +1,3 @@
-
-
-
 import React from "react";
 
 // The AddFolder component displays a pop-up for creating a new folder.
